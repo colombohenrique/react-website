@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 import { Row } from '../../globalStyles';
-import Slider from 'react-slick';
+import Slider from 'slick-carousel';
 
 export const CarouselImage = styled.img`
 	width: 100%;
